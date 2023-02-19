@@ -3,6 +3,10 @@
 
 a simple typing game using vanilla javascript and html/css
 
+## To-Do
+
+- Add API with random words
+
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
